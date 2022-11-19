@@ -209,7 +209,7 @@ ul {
     transition: 0.4s;
 }
 
-nav ul li .active-page{
+nav ul li #active-page{
     text-decoration: underline;
     text-underline-offset: 6px;
 }
