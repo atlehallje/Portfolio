@@ -545,6 +545,8 @@ footer i{
     .img-1, .img-2, .img-3, .img-4{
         margin-top: 100px;
     }
-    
+    .modal-content{
+        width: 70%;
+    }
 
 }
